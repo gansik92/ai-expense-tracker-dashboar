@@ -1,13 +1,10 @@
-// src/pages/DashboardPage.tsx
-
-import React from "react";
+import React from 'react';
 
 export default function DashboardPage() {
   return (
-    <div>
-      <h1>AI Expense Tracker Dashboard 💰🤖</h1>
-      <p>Coming soon... 🚀</p>
+    <div style={{ padding: '20px' }}>
+      <h1>📊 AI Expense Tracker Dashboard 💰🤖</h1>
+      <p>🚀 Coming soon... Stay tuned!</p>
     </div>
   );
 }
-
